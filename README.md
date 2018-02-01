@@ -1,6 +1,6 @@
 # jason-pilot
-my first GIT program
-=
+first GIT program
+
 Hello Worlds!
 
 My name is Jason, I've been studying C, C++, Java, Javascript, 
