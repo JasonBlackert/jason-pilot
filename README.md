@@ -1,5 +1,5 @@
 # jason-pilot
-first GIT program
+My first GIT program
 
 Hello Worlds!
 
